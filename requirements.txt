@@ -1,0 +1,22 @@
+Django>=5.2,<6.0
+djangorestframework>=3.16.0
+django-cors-headers>=4.7.0
+
+# Database (SQLite by default; uncomment if using MySQL)
+# mysqlclient>=2.2.7
+
+# API utilities
+requests>=2.32.0
+
+# Production server
+gunicorn>=23.0.0
+
+# Environment variables
+python-dotenv>=1.1.0
+
+# Image handling
+Pillow>=11.0.0
+
+mysqlclient>=2.2.7
+
+djangorestframework-simplejwt>=5.5.0
